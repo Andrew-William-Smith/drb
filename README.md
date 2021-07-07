@@ -48,7 +48,7 @@ drb can be built by cloning the repository and then running make:
 
     git clone https://github.com/Andrew-William-Smith/drb.git
     cd drb
-    make
+    sudo make install
 
 ## License
 
